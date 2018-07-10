@@ -1,12 +1,12 @@
 {
-  "name": "html-css-starter-project-with-BrowserSync-liveReload",
+  "name": "html-css-js-starter",
   "version": "1.0.0",
   "description": "Starter project for html and css live reload with browser-sync",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Suprokash Chakraborty",
+  "author": "Adegoke Saidi",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^2.18.12",
