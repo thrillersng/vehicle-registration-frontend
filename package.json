@@ -15,5 +15,8 @@
   "repository": {
     "type": "git",
     "url": "?"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.2"
   }
 }
